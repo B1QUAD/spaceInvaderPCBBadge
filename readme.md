@@ -2,7 +2,8 @@
 A fun and simple PCB badge made using an ATTINY85 microcontroller and some LEDs.  
 Here is the schematic:  
 ![sch](https://gitub.com/B1QUAD/spaceInvaderPCBBadge/blob/main/Media/sch.png)  
-  
+
+Here is the PCB layout:
 ![pcb](https://github.com/B1QUAD/spaceInvaderPCBBadge/blob/main/Media/pcb.png)
 
 Some 3D renders of the circuit board:
